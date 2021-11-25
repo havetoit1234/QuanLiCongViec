@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QuanLiCongViec/static/css/main.d1fa3691.chunk.css",
+    "main.js": "/QuanLiCongViec/static/js/main.3b547384.chunk.js",
+    "main.js.map": "/QuanLiCongViec/static/js/main.3b547384.chunk.js.map",
+    "runtime-main.js": "/QuanLiCongViec/static/js/runtime-main.a54db14c.js",
+    "runtime-main.js.map": "/QuanLiCongViec/static/js/runtime-main.a54db14c.js.map",
+    "static/js/2.ce7f888f.chunk.js": "/QuanLiCongViec/static/js/2.ce7f888f.chunk.js",
+    "static/js/2.ce7f888f.chunk.js.map": "/QuanLiCongViec/static/js/2.ce7f888f.chunk.js.map",
+    "static/js/3.b30a506c.chunk.js": "/QuanLiCongViec/static/js/3.b30a506c.chunk.js",
+    "static/js/3.b30a506c.chunk.js.map": "/QuanLiCongViec/static/js/3.b30a506c.chunk.js.map",
+    "index.html": "/QuanLiCongViec/index.html",
+    "static/css/main.d1fa3691.chunk.css.map": "/QuanLiCongViec/static/css/main.d1fa3691.chunk.css.map",
+    "static/js/2.ce7f888f.chunk.js.LICENSE.txt": "/QuanLiCongViec/static/js/2.ce7f888f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a54db14c.js",
+    "static/js/2.ce7f888f.chunk.js",
+    "static/css/main.d1fa3691.chunk.css",
+    "static/js/main.3b547384.chunk.js"
+  ]
+}
